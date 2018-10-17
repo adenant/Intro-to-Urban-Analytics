@@ -29,4 +29,5 @@
 Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah data-data tersebut _(text mining & analysis)_
 
 +++
-Dalam beberapa pertemuan kelas mendatang, kita akan fokus pada pengenalan teknik _data mining_ dan ananlsis sederhana media sosial yang akan menjadi persiapan bagi tugas berikutnya
+Dalam beberapa pertemuan kelas mendatang, kita akan fokus pada pengenalan teknik _data mining_ dan ananlsis sederhana media sosial menggunakan perangkat lunak R yang akan menjadi persiapan bagi tugas berikutnya
+
