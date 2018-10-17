@@ -15,9 +15,10 @@
     - _free_ alias gratis (dapat di download di https://www.r-project.org/)
     - pengadopsi teknik-teknik analisis terkini
     - dukungan dari komunitas yang luas
-- _Let's get it on!_
 
 +++
+
+# _Let's get it on!_
 
 - Buka aplikasi R dari desktop  
 ![Rlogo](assets/img/Rlogo_small.png)
