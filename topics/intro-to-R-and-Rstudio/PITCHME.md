@@ -18,7 +18,7 @@
 
 +++
 
-# _Let's get it on!_
+### _Let's get it on!_
 
 - Buka aplikasi R dari desktop  
 ![Rlogo](assets/img/Rlogo_small.png)
