@@ -1,4 +1,4 @@
-## Social Media & Ruang Expresi Opini & Gagasan Individu di Era Digital
+## Social Media Sebagai Ruang Expresi Opini & Gagasan Individu di Era Digital
 
 +++
 - We all live in the digital age :metal:
