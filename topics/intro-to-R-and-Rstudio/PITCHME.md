@@ -11,6 +11,7 @@
 +++
  
 - R adalah perangkat lunak yang dikembangkan secara _open source_:
+
     - bersifat terbuka; siapapun dapat berkontribusi
     - free
     - pengadopsi teknik-teknik analisis terkini
@@ -21,5 +22,5 @@
 
 - Buka aplikasi R dari desktop  
 ![Rlogo](assets/img/Rlogo_small.png)
-- Tampilan standard GUI sbb
-![Rgui](assets/img/rgui_small.png)
+- Tampilan standar GUI R  
+![Rlogo](assets/img/rgui_small.png)
