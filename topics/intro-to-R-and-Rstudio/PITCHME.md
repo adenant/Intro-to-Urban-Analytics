@@ -19,6 +19,6 @@
 
 +++
 
-- Mari buka aplikasi R dari desktop  ![alt text](Intro-to-R/assets/img/Rlogo.png)
+- Mari buka aplikasi R dari desktop  ![alt text](img/Rlogo.png)
 
 
