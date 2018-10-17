@@ -11,7 +11,3 @@
 +++
  
 - R adalah perangkat lunak yang dikembangkan secara _open source_:
-    - bersifat terbuka; siapapun dapat berkontribusi
-    - free
-    - pengadopsi teknik-teknik analisis terkini
-    - dukungan dari komunitas yang luas
