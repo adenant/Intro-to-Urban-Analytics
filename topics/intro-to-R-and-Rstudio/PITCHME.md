@@ -17,4 +17,8 @@
     - dukungan dari komunitas yang luas
 - R dapat di download di https://www.r-project.org/
 
++++
+
 ## R's Graphical User Interface
+
+ ![RGUI](https://github.com/adenant/Intro-to-R/blob/master/assets/img/rgui.png)
