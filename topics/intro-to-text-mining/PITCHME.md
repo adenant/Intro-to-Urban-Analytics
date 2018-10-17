@@ -11,4 +11,22 @@
 
 +++
 
-People produce vast amounts of data as text (and have for a long time).
+- Tiap orang memproduksi data dan jejak digital yang luar biasa banyaknya
+    - Teks (status, komentar, DM, _reply_, hashtag, dst.)
+    - Lokasi (check-in, geotag, etc.)
+    - Audio
+    - Video
+    - Image
+    - dsb.
+
++++
+Ketersediaan data-data ini memungkinkan untuk dilakukannya proses pengumpulan data untuk:
+- menemukenali trend yang berkembang di masyarakat berdasarkan pandangan, opini, ekspektasi dari sekelompok aktor ataupun masyarakat secara umum
+- memperoleh data secara cepat dan relatif lebih murah dibandingkan metode-metode pengumpulan data konvenstional lainnya
+- memperolah data yang bersifat alamiah dan spontan
+
++++
+Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh data-data tersebut _(text mining)_
+
++++
+Dalam beberapa pertemuan kelas mendatang, kita akan fokus pada pengenalan teknik data mining media sosial yang akan menjadi persiapan bagi tugas berikutnya
