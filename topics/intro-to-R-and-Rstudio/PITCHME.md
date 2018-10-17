@@ -33,12 +33,8 @@
 
 ![Rlogo](assets/img/RStudio_small.png)
 
-- Terdapat 3 buah jendela standard (4 dengan source window): 
-    1) Source
-    2) Console
-    3) Environment/History
-    4) Files/Plots/Packages/Helps
+- Terdapat 3 buah jendela standard (4 dengan source window): _1) Source; 2) Console; 3) Environment/History;_ dan _4) Files/Plots/Packages/Helps_
 
 +++
 
-![Rstudio_window](assets/img/RStudio_windows_small.png)
+![Rstudio_window](assets/img/RStudio_windows.png)
