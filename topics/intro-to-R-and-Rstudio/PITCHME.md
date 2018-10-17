@@ -8,7 +8,7 @@
     - ketersediaan berbagai tools untuk pengelolaan data yang kompleks
     - fasiltas grafis untuk data analisis dan penayangan visual
 
- +++
++++
  
  - R adalah perangkat lunak yang dikembangkan secara _open source_:
     - Bersifat terbuka; siapapun dapat berkontribusi
