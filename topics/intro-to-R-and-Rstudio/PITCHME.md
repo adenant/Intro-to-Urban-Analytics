@@ -9,14 +9,13 @@
     - fasiltas grafis untuk data analisis dan penayangan visual
 
 +++
- 
-- R adalah perangkat lunak yang dikembangkan secara _open source_:
 
+- R adalah perangkat lunak yang dikembangkan secara _open source_:
     - bersifat terbuka; siapapun dapat berkontribusi
-    - free
+    - _free_ alias gratis (dapat di download di https://www.r-project.org/)
     - pengadopsi teknik-teknik analisis terkini
     - dukungan dari komunitas yang luas
-- R dapat di download di https://www.r-project.org/
+- _Let's get it on!_
 
 +++
 
