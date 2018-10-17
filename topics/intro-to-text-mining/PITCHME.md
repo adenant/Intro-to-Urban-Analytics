@@ -1,7 +1,7 @@
-## Social Media Sebagai Ruang Expresi Opini & Gagasan Individu di Era Digital
+## Social Media Sebagai Ruang Expresi Opini & Gagasan di Era Digital
 
 +++
-- We all live in the digital age :metal:
+- We all live in the digital age
 
 - Di era digital saat ini media komunikasi online menjadi media komunikasi yang penting antar individu -- terutama generasi muda
 
