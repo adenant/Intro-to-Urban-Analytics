@@ -38,3 +38,7 @@
     2) Console
     3) Environment/History
     4) Files/Plots/Packages/Helps
+
++++
+
+![Rstudio_window](assets/img/RStudio_windows_small.png)
