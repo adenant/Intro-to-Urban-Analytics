@@ -26,7 +26,7 @@
     - memperolah data yang bersifat alamiah dan spontan
 
 +++
-Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh data-data tersebut _(text mining)_
+Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah data-data tersebut _(text mining & analysis)_
 
 +++
-Dalam beberapa pertemuan kelas mendatang, kita akan fokus pada pengenalan teknik data mining media sosial yang akan menjadi persiapan bagi tugas berikutnya
+Dalam beberapa pertemuan kelas mendatang, kita akan fokus pada pengenalan teknik _data mining_ dan ananlsis sederhana media sosial yang akan menjadi persiapan bagi tugas berikutnya
