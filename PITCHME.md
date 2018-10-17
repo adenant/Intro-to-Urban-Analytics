@@ -1,2 +1,3 @@
 ---?include=topics/cover/PITCHME.md
 ---?include=topics/agenda/PITCHME.md
+---?include=topics/intro-to-text-mining/PITCHME.md
