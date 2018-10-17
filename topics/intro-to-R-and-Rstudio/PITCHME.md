@@ -21,4 +21,4 @@
 
 ## R's Graphical User Interface
 
- ![RGUI](https://github.com/adenant/Intro-to-R/blob/master/assets/img/rgui.png)
+ ![RGUI](assets/img/rgui.png)
