@@ -41,6 +41,6 @@
 
 +++
 
-## Let's have hands-on exercises!
+## Let's get your feet wet!
 
 - Buka R script R_Intro.R di RStudio anda!
