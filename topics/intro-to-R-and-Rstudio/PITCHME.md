@@ -20,4 +20,4 @@
 +++
 
 - Mari buka aplikasi R dari desktop  
-![alt text](img/Rlogo.png)
+![Rlogo](assets/img/Rlogo.png)
