@@ -38,3 +38,9 @@
 +++
 
 ![Rstudio_window](assets/img/RStudio_windows.png)
+
++++
+
+## Let's have hands-on exercises!
+
+- Buka R script R_Intro.R di RStudio anda!
