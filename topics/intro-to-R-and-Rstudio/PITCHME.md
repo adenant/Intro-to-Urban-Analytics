@@ -19,5 +19,7 @@
 
 +++
 
-- Mari buka aplikasi R dari desktop  
-![Rlogo](assets/img/Rlogo.png)
+- Buka aplikasi R dari desktop  
+![Rlogo](assets/img/Rlogo_small.png)
+- Tampilan standard GUI sbb:
+![Rgui](assets/img/rgui_small.png)
