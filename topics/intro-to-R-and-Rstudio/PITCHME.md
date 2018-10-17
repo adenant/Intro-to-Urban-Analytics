@@ -14,5 +14,3 @@
     - Free
     - Pengadopsi teknik-teknik analisis terkini
     - Dukungan dari komunitas yang luas
-    
- +++
