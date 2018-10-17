@@ -20,7 +20,6 @@
 
 ### _Let's get it on!_
 
-- Buka aplikasi R dari desktop  
-![Rlogo](assets/img/Rlogo_small.png)
+- Buka aplikasi R dari desktop ![Rlogo](assets/img/Rlogo_small.png)
 - Tampilan standar GUI R  
 ![Rlogo](assets/img/rgui_med.png)
