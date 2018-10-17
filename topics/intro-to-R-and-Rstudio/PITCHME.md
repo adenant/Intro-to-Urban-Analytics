@@ -9,9 +9,10 @@
     - fasiltas grafis untuk data analisis dan penayangan visual
  
  +++
- - R adalah perangkat lunak yang dikembangkan secara open source:
+ - R adalah perangkat lunak yang dikembangkan secara _open source_:
     - Bersifat terbuka; siapapun dapat berkontribusi
     - Free
     - Pengadopsi teknik-teknik analisis terkini
+    - Dukungan dari komunitas yang luas
     
  +++
