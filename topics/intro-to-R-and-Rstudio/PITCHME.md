@@ -7,7 +7,6 @@
     - kemampuan kalkulasi dan operasi matematis yang kompleks
     - ketersediaan berbagai tools untuk pengelolaan data yang kompleks
     - fasiltas grafis untuk data analisis dan penayangan visual
-    - bahasa pemrograman yang sederhana dan effective (S-Language)
  
  +++
  - R adalah perangkat lunak yang dikembangkan secara open source:
