@@ -24,3 +24,10 @@
 ![Rlogo](assets/img/Rlogo_small.png)
 - Tampilan standar GUI R  
 ![Rlogo](assets/img/rgui_med.png)
+
++++
+### RStudio
+
+- Merupakan _third party_ GUI untuk R dengan tampilan dan fasilitas yang menarik
+- Buka aplikasi RStudio dari desktop 
+![Rlogo](assets/img/RStudio_small.png)
