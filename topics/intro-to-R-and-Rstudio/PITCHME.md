@@ -29,8 +29,12 @@
 ### RStudio - Aplikasi GUI untuk R
 
 - Merupakan _third party_ GUI untuk R dengan tampilan dan fasilitas yang menarik
-- Buka aplikasi RStudio dari desktop 
+- Buka aplikasi RStudio dari desktop
+
 ![Rlogo](assets/img/RStudio_small.png)
-- Terdapat 3 buah jendela standard (4 dengan source window): 1) Source, 2) Console, 3) Environment/History, 4) Files/Plots/Packages/Helps
 
-
+- Terdapat 3 buah jendela standard (4 dengan source window): 
+    1) Source
+    2) Console
+    3) Environment/History
+    4) Files/Plots/Packages/Helps
