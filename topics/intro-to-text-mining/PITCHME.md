@@ -20,10 +20,10 @@
     - dsb.
 
 +++
-Ketersediaan data-data ini memungkinkan untuk dilakukannya proses pengumpulan data untuk:
-- menemukenali trend yang berkembang di masyarakat berdasarkan pandangan, opini, ekspektasi dari sekelompok aktor ataupun masyarakat secara umum
-- memperoleh data secara cepat dan relatif lebih murah dibandingkan metode-metode pengumpulan data konvenstional lainnya
-- memperolah data yang bersifat alamiah dan spontan
+- Ketersediaan data-data ini memungkinkan untuk dilakukannya proses pengumpulan data untuk:
+    - menemukenali trend yang berkembang di masyarakat berdasarkan pandangan, opini, ekspektasi dari sekelompok aktor ataupun masyarakat secara umum
+    - memperoleh data secara cepat dan relatif lebih murah dibandingkan metode-metode pengumpulan data konvenstional lainnya
+    - memperolah data yang bersifat alamiah dan spontan
 
 +++
 Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh data-data tersebut _(text mining)_
