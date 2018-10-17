@@ -15,4 +15,5 @@
     - free
     - pengadopsi teknik-teknik analisis terkini
     - dukungan dari komunitas yang luas
+- R dapat di download di https://www.r-project.org/
 
