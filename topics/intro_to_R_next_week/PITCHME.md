@@ -23,3 +23,8 @@
 - Klik menu "apps" dari pull-down menu username anda
 - Klik "Create an apps", isi form isiannya dan klik "Create"
 - Apabila berhasil, anda akan mendapatkan API Key dan access token
+
++++
+## End of the Part I
+
+Enjoy the rest of the week!!!
