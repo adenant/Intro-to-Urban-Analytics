@@ -2,7 +2,7 @@
 
 +++
 
-- Install packages berikut:
+- Install _packages_ berikut:
     - twitteR
     - stringr
     - plyr
