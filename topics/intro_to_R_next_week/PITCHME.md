@@ -25,6 +25,6 @@
 - Apabila berhasil, anda akan mendapatkan API Key dan access token
 
 +++
-## End of the Part I
+## End of Part I
 
 Enjoy the rest of the week!!!
