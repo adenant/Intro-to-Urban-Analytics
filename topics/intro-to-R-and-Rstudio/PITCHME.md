@@ -43,4 +43,7 @@
 
 ## Let's get your feet wet!
 
-- Buka R script R_Intro.R di RStudio anda!
+- Masuk ke page Github https://github.com/adenant
+- Klik Repositories; klik Introduction_R
+- Klik "Clone or download" --> Download Zip
+- Unzip file zip dan buka R script R_Intro.R di RStudio anda!
