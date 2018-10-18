@@ -2,6 +2,8 @@
 
 +++
 
+![Ade](assets/img/me_selfie_small.jpg)
+
 Adenantera Dwicaksono, PhD.
 
 adenant@sappk.itb.ac.id
