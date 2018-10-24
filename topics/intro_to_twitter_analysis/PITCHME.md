@@ -1,4 +1,6 @@
-## Bagian II/III
+## Bagian II/III 
+Penggalian dan Pembersihan Data Teks
+Analisis Teks Sederhana
 
 +++
 ## Agenda hari ini:
