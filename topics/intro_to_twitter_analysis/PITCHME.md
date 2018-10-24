@@ -20,3 +20,8 @@ Analisis Teks Sederhana
 ## Tugas untuk minggu depan
 - Tentukan topik umum, dan definisikan search terms
 - Replikasi proses mengakses data Twitter dan analisisnya
+
++++
+## End of Part II/III
+
+Enjoy the rest of the week!!!
