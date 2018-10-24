@@ -14,3 +14,9 @@ Analisis Teks Sederhana
 - rubah alamat working directory ke alamat lokal
 - simpan semua file dari zip/rar ke alamat lokal working directory
 - buka file script twitter_analysis.R di RStudio
+
++++
+
+## Tugas untuk minggu depan
+- Tentukan topik umum, dan definisikan search terms
+- Replikasi proses mengakses data Twitter dan analisisnya
