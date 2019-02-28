@@ -61,6 +61,9 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 - <+> Barometer yang baik untuk isu-isu terkini; memungkinkan untuk analisis jejaring sosial
 - <-> Hanya mewakili proporsi kecil dari populasi; terbatas hanya 140 character; data demografis terbatas.
 
-
-
-
++++
+## Facebook
+- Diskusi terbatas pada lingkaran teman dan/atau komunitas dan dapat berlangsung pada suatu periode tertentu
+- Aktifitas biasanya diukur berdasarkan jumlah post, likes, shares, dan komentar
+- <+> Memungkinkan analisis perbincangan yang memuat opini secara lengkap; memungkinkan mengakses data historis di laman publik, memungkinkan analisis jejaring sosial
+- <-> Diskusi terbatas pada kelompok kecil; Publik API facebook hanya memungkinkan scrapping dai laman publik;data demografis relatif tersedia
