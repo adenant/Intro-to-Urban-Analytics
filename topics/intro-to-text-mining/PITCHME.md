@@ -17,12 +17,12 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Arsip terpindai dari dokumen, berkas, catatan, formulir, dsb.
 - Dockumen digital (DOC, PDF, XLS, CSV, E-mail, dsb.)
 - Media (image, video, audio, dsb.)
-- Penyimpanan data (SQL, Hadoop, repository dokumen, dsb.)
-- Aplikasi bisnis (project management, otomatisasi marketing, dsb. )
-- Situs web umum (pemerintah, laporan cuaca, lalu-lintas, dsb.)
-- Social media (Twitter, Facebook, Instagram, LinkedIn, Youtube, dsb.)
+- Penyimpanan data (SQL, Hadoop, dsb.)
+- Aplikasi bisnis (project & content management, dsb. )
+- Situs web umum (pemerintah, laporan cuaca, dsb.)
+- Social media (Twitter, Facebook, LinkedIn, Youtube, dsb.)
 - Data log (even logs, server data, application app, dsb.)
-- sensor data
+- Sensor data
 
 +++
 - We all live in the digital age
