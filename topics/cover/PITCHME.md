@@ -1,4 +1,4 @@
-## Perkenalan Praktis Penggalian Data Teks _(Text Mining)_ Sosial Media untuk Penjaringan Opini Menggunakan R
+## Perkenalan Text Data Mining untuk Kebutuhan Analisis Perencanaan Wilayah dan Kota Dengan Menggunakan R
 
 +++
 
