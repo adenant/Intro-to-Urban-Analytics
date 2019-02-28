@@ -7,7 +7,7 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 # Big data:
 - Merupakan "by-product" dari perilaku digital individu
 - Tidak dikumpulkan melalui tahapan yang dipandu oleh pertanyaan penelitian
-- Tidak sepenuhnya mewakili keseluruah kasus. Keterwakilan bukan menjadi faktor penting dalam proses pengumpulannya
+- Tidak sepenuhnya mewakili keseluruah kasus
 - Biasanya data dapat diakses secara real time
 - Dapat dianalisis dengan mengkombinasikan beragam sumber data
 - Dapat dimanfaatkan untuk memperbaiki proses pengambilan keputusan
