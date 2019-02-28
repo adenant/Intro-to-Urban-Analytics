@@ -65,5 +65,5 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 ## Facebook
 - Diskusi terbatas pada lingkaran teman dan/atau komunitas dan dapat berlangsung pada suatu periode tertentu
 - Aktifitas biasanya diukur berdasarkan jumlah post, likes, shares, dan komentar
-- <+> Memungkinkan analisis perbincangan yang memuat opini secara lengkap; memungkinkan mengakses data historis di laman publik, memungkinkan analisis jejaring sosial
-- <-> Diskusi terbatas pada kelompok kecil; Publik API facebook hanya memungkinkan scrapping dai laman publik;data demografis relatif tersedia
+- <+> Memungkinkan analisis perbincangan dan opini; memungkinkan mengakses data historis, memungkinkan analisis jejaring sosial
+- <-> Diskusi terbatas pada kelompok kecil; Publik API hanya memungkinkan scrapping terbatas; data demografis relatif tersedia
