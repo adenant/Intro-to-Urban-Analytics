@@ -55,5 +55,12 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah data-data tersebut _(text mining & analysis)_
 
 +++
+## Twitter
+- Pengguna Twitter umumnya kaum muda, terpelajar, berdomisili di kawasan urban
+- Sifat perbincangan dan diskusi cenderung lebih 'real-time'
+- <+> Barometer yang baik untuk isu-isu terkini; memungkinkan untuk analisis jejaring sosial
+- <-> Hanya mewakili proporsi kecil dari populasi; terbatas hanya 140 character; data demografis terbatas.
+
+
 
 
