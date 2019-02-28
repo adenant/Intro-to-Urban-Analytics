@@ -13,7 +13,7 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Dapat dimanfaatkan untuk memperbaiki proses pengambilan keputusan
 
 +++
-## Sumber-Sumber Big Data (1):
+## Sumber-Sumber Big Data:
 - Arsip terpindai dari dokumen, berkas, catatan, formulir, dsb.
 - Dockumen digital (DOC, PDF, XLS, CSV, E-mail, dsb.)
 - Media (image, video, audio, dsb.)
@@ -25,6 +25,8 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Sensor data (GPS, kamera)
 
 +++
+## Mengapa social media?
+
 - We all live in the digital age
 
 - Di era digital saat ini media komunikasi online menjadi media komunikasi yang penting antar individu -- terutama generasi muda
@@ -53,5 +55,5 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah data-data tersebut _(text mining & analysis)_
 
 +++
-Dalam beberapa pertemuan kelas mendatang, kita akan fokus pada pengenalan teknik _data mining_ dan analisis sederhana media sosial menggunakan perangkat lunak R yang akan menjadi persiapan bagi tugas berikutnya
+
 
