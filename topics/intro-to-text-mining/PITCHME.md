@@ -20,9 +20,9 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Penyimpanan data (SQL, Hadoop, dsb.)
 - Aplikasi bisnis (project & content management, dsb. )
 - Situs web umum (pemerintah, laporan cuaca, dsb.)
-- Social media (Twitter, Facebook, LinkedIn, Youtube, dsb.)
-- Data log (even logs, server data, application app, dsb.)
-- Sensor data
+- Social media (Twitter, Facebook, LinkedIn, dsb.)
+- Data log (even logs, server data, dsb.)
+- Sensor data (GPS, kamera)
 
 +++
 - We all live in the digital age
