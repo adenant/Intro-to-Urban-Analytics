@@ -1,4 +1,17 @@
-## Social Media Sebagai Ruang Expresi Opini & Gagasan di Era Digital
+## Definisi "Big Data"
+
++++
+Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally trackable or storable actions, choices, and preferences that people generate as they go about their daily lives.’ As opposed to traditional data (e.g., surveys or census), which are collected with a specific intention and follow a structured format with valid and reliable measurements (Hilbert, 2016)
+
++++
+# Big data:
+- Merupakan "by-product" dari perilaku digital individu
+- Tidak dikumpulkan melalui tahapan yang dipandu oleh pertanyaan penelitian
+- Tidak sepenuhnya mewakili keseluruah kasus. Keterwakilan bukan menjadi faktor penting dalam proses pengumpulannya
+- Biasanya data dapat diakses secara real time
+- Dapat dianalisis dengan mengkombinasikan beragam sumber data
+- Dapat dimanfaatkan untuk memperbaiki proses pengambilan keputusan
+
 
 +++
 - We all live in the digital age
