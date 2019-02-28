@@ -66,4 +66,4 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 - Diskusi terbatas pada lingkaran teman dan/atau komunitas dan dapat berlangsung pada suatu periode tertentu
 - Aktifitas biasanya diukur berdasarkan jumlah post, likes, shares, dan komentar
 - <+> Memungkinkan analisis perbincangan dan opini; memungkinkan mengakses data historis, memungkinkan analisis jejaring sosial
-- <-> Diskusi terbatas pada kelompok kecil; Publik API hanya memungkinkan scrapping terbatas; data demografis relatif tersedia
+- <-> Diskusi terbatas pada kelompok kecil; memungkinkan scrapping terbatas; data demografis relatif tersedia
