@@ -4,7 +4,7 @@
 Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally trackable or storable actions, choices, and preferences that people generate as they go about their daily lives.’ As opposed to traditional data (e.g., surveys or census), which are collected with a specific intention and follow a structured format with valid and reliable measurements (Hilbert, 2016)
 
 +++
-# Big data:
+## Big data:
 - Merupakan "by-product" dari perilaku digital individu
 - Tidak dikumpulkan melalui tahapan yang dipandu oleh pertanyaan penelitian
 - Tidak sepenuhnya mewakili keseluruah kasus
@@ -12,6 +12,17 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Dapat dianalisis dengan mengkombinasikan beragam sumber data
 - Dapat dimanfaatkan untuk memperbaiki proses pengambilan keputusan
 
++++
+## Sumber-Sumber Big Data (1):
+- Arsip terpindai dari dokumen, berkas, catatan, formulir, dsb.
+- Dockumen digital (DOC, PDF, XLS, CSV, E-mail, dsb.)
+- Media (image, video, audio, dsb.)
+- Penyimpanan data (SQL, Hadoop, repository dokumen, dsb.)
+- Aplikasi bisnis (project management, otomatisasi marketing, dsb. )
+- Situs web umum (pemerintah, laporan cuaca, lalu-lintas, dsb.)
+- Social media (Twitter, Facebook, Instagram, LinkedIn, Youtube, dsb.)
+- Data log (even logs, server data, application app, dsb.)
+- sensor data
 
 +++
 - We all live in the digital age
