@@ -1,4 +1,4 @@
-# Intro-to-R
+# Intro-to-text-data-mining-with-R
 Introduction to Text Data Mining using R
 
 This contains presentation materials for Introduction to Text Data Mining using R at Insitute Teknologi Bandung.
