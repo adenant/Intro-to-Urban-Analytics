@@ -1,4 +1,4 @@
-## Perkenalan Text Data Mining untuk Kebutuhan Analisis Perencanaan Wilayah dan Kota Dengan Menggunakan R
+## Pengenalan Text Data Mining untuk Kebutuhan Analisis Perencanaan Wilayah dan Kota Dengan Menggunakan R
 
 +++
 
