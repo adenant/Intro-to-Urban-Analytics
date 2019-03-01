@@ -67,3 +67,10 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 - Aktifitas biasanya diukur berdasarkan jumlah post, likes, shares, dan komentar
 - <+> Analisis perbincangan dan opini; akses data historis terbatas, memungkinkan analisis jejaring sosial
 - <-> Diskusi terbatas pada kelompok kecil; scrapping terbatas; data demografis relatif tersedia
+
++++
+## Pemanfaatan data Twitter untuk Analisis
+
++++
+
+![Ade](assets/img/Figure.pulselab.png)
