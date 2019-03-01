@@ -84,6 +84,7 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
     - Melakukan verifikasi dengan menggunakan data commutting resmi BPS
 
 +++
+
 *Hasil*: Data tweets berlokasi geografis memiliki potensi untuk mengisi kesenjangan informasi dari data communiting resmi
 
 ![Table](assets/img/table_pulselab.jpg)
