@@ -76,15 +76,15 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 ![Figure_pulselab](assets/img/Figure.pulselab.png)
 
 +++
-- Ringkasan kajian: Untuk menguji apakah informasi lokasi dari social media di perangkat mobile dapat menunjukkan pola communiting di Kawasan Jabodetabek
+- *Tujuan*: Untuk menguji apakah informasi lokasi dari social media di perangkat mobile dapat menunjukkan pola communiting di Kawasan Jabodetabek
 
-- Metode
+- *Metode*
     - Menyusun statistik asal-tujuan pada 10 kota di kawasan Jabodetabek dari informasi GPS data tweets
     - Melakukan kalibrasi berdasarkan distribusi populasi dan pengguna Twitter
     - Melakukan verifikasi dengan menggunakan data commutting resmi BPS
-- Hasil: Data tweets berlokasi geografis memiliki potensi untuk mengisi kesenjangan informasi dari data communiting resmi
 
 +++
+*Hasil*: Data tweets berlokasi geografis memiliki potensi untuk mengisi kesenjangan informasi dari data communiting resmi
 
 ![Table](assets/img/table_pulselab.jpg)
 
