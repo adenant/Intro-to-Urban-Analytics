@@ -73,8 +73,8 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 
 +++
 
-![Ade](assets/img/Figure.pulselab.png)
+![Figure_pulselab](assets/img/Figure.pulselab.png)
 
 +++
 
-![Ade](assets/img/Chord diagram 2.jpg)
+![Chord_diagram](assets/img/Chord_diagram2.jpg)
