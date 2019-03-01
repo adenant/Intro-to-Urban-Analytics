@@ -53,20 +53,6 @@ Langkah berikutnya adalah memulai project baru untuk mendapatkan:
     - Access Token Secret
 
 +++
-## Untuk Minggu depan
-
-- Install _packages_ berikut:
-    - twitteR
-    - stringr
-    - plyr
-    - ggplot2
-- Mendapatkan Twitter access token key:
-    - Consumer Key (API Key)
-    - Consumer Secret (API Secret)
-    - Access Token
-    - Access Token Secret
-
-+++
 ## Memulai project baru
 Login ke Twitter dan klik https://developer.twitter.com/en/apps
 Pilih *Create New Application* dan mulai mengisi detil aplikasi anda
@@ -102,17 +88,17 @@ Anda membutuhkan consumer dan akses key:
 ![Ade](assets/img/screenshot_6.png)
 
 +++
+## Untuk langkah berikutnya
 
-## Twitter access token key
+- Install _packages_ berikut:
+    - twitteR
+    - stringr
+    - plyr
+    - ggplot2
+- Mendapatkan Twitter access token key:
+    - Consumer Key (API Key)
+    - Consumer Secret (API Secret)
+    - Access Token
+    - Access Token Secret
 
-- Masuk ke laman https://apps.twitter.com, login menggunakan akun Twitter
-- Klik "apply for a Twitter developer account"
-- Masuk ke laman https://developer.twitter.com
-- Klik menu "apps" dari pull-down menu username anda 
-- Klik "Create an apps", isi form isiannya dan klik "Create"
-- Apabila berhasil, anda akan mendapatkan API Key dan access token
 
-+++
-## End of Part I
-
-Enjoy the rest of the week!!!
