@@ -85,7 +85,7 @@ Oleh karena itu diperlukan skill dan kemampuan untuk memperoleh, dan mengolah da
 
 +++
 
-*Hasil*: Data tweets berlokasi geografis memiliki potensi untuk mengisi kesenjangan informasi dari data communiting resmi
+*Hasil*: Data tweets berlokasi geografis memiliki potensi untuk mengisi kesenjangan informasi dari data commuting resmi
 
 ![Table](assets/img/table_pulselab.jpg)
 
