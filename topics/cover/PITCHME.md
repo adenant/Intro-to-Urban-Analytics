@@ -1,4 +1,4 @@
-## Pengenalan Text Data Mining untuk Kebutuhan Analisis Perencanaan Wilayah dan Kota Dengan Menggunakan R
+## Pengenalan *Social Media Data Mining* untuk Kebutuhan Analisis Perencanaan Wilayah dan Kota Dengan Menggunakan R
 
 +++
 
