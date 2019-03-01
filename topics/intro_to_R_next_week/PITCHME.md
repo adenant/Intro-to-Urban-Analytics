@@ -67,6 +67,39 @@ Langkah berikutnya adalah memulai project baru untuk mendapatkan:
     - Access Token Secret
 
 +++
+## Memulai project baru
+Login ke Twitter dan klik https://developer.twitter.com/en/apps
+Pilih *Create New Application* dan mulai mengisi detil aplikasi anda
+
+![Ade](assets/img/screenshot_1.png)
+
+
++++
+
+![Ade](assets/img/screenshot_2.png)
+
+
++++
+
+Penting! Isikan di text box terakhir tentang mengapa, bagaimana, dan apa yang bisa dilakukan applikasi ini. 
+
+![Ade](assets/img/screenshot_3.png)
+
++++
+
+Klik *Create* dan akan muncul pop-up box
+
+![Ade](assets/img/screenshot_4.png)
+
++++
+Akan muncul tampilan sebagai berikut
+
+![Ade](assets/img/screenshot_5.png)
+
++++
+Anda membutuhkan consumer dan akses key:
+
+![Ade](assets/img/screenshot_6.png)
 
 +++
 
