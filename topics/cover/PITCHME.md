@@ -12,4 +12,4 @@ adenant@sappk.itb.ac.id
 
 +++
 
-Presentasi ini dapat diakses di https://gitpitch.com/adenant/Intro-to-R/master#/
+Presentasi ini dapat diakses di https://gitpitch.com/adenant/Intro-to-text-data-mining-with-R/master#/
