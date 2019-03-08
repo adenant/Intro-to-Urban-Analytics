@@ -57,6 +57,8 @@ Langkah berikutnya adalah memulai project baru untuk mendapatkan:
 Login ke Twitter dan klik https://developer.twitter.com/en/apps
 Pilih *Create New Application* dan mulai mengisi detil aplikasi anda
 
++++
+
 ![Ade](assets/img/screenshot_1.png)
 
 
