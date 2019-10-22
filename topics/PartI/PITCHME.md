@@ -29,3 +29,15 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Biasanya data dapat diakses secara real time
 - Dapat dianalisis dengan mengkombinasikan beragam sumber data
 - Dapat dimanfaatkan untuk memperbaiki proses pengambilan keputusan
+
+---
+## Urban data characteristics
+
+- Volume -large Volumes of data (Terra, Petabytes) spanning large areas
+- Velocity -produced in near-real time
+- Variety -diverse in data sources, quality, structuredness, referenced spatially and temporally
+- Exhaustive -usually n=all, or at least claims to be
+- Resolution -fine grained, temporally, spatially and along other dimensions
+- Relational -usually merged with other datasets, likely through geographic identifiers
+- Flexible -accommodate new data streams, sensors etc.
+- Scalable -expanded rapidly
