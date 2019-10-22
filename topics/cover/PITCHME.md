@@ -12,4 +12,4 @@ adenant@sappk.itb.ac.id
 
 +++
 
-Presentasi ini dapat diakses di https://gitpitch.com/adenant/Intro-to-Urban-Analytics/master#/
+This presentation can be accessed in https://gitpitch.com/adenant/Intro-to-Urban-Analytics/master#/
