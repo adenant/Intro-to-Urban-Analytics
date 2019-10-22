@@ -63,6 +63,12 @@ What data or technologies might exist in this picture?
 …
 
 +++
+### Type of data: Stationary Sensor Networks
+![Stationary Sensor Networks](assets/img/chicagoarrayofthings.jpg)
+![Advanced Metering Infrastructure](assets/img/induction_loop.gif)
+
+
++++
 ### Urban Open Data
 - Open licensing of data by cities enables use of municipal data without financial cost
 - Emergence of central repositories that consolidate data 
