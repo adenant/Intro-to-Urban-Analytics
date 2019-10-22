@@ -1,4 +1,4 @@
-## Pengenalan *Social Media Data Mining* untuk Kebutuhan Analisis Perencanaan Wilayah dan Kota Dengan Menggunakan R
+## Pengenalan Urban Analytics untuk Smart Cities
 
 +++
 
