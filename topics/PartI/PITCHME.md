@@ -1,9 +1,8 @@
 ## Urban Analytics, Big Data, dan Smart Cities
 
 +++
-## Urban Analytics
-- Definition
-  - The multi-disciplinary area of research concerned with using new and emerging forms of data, alongside computational, visualisation and statistical techniques, to study cities and their systems, tell stories and understand their issues (Alex Singleton)
+### Urban Analytics: Definition
+The multi-disciplinary area of research concerned with using new and emerging forms of data, alongside computational, visualisation and statistical techniques, to study cities and their systems, tell stories and understand their issues (Alex Singleton)
 
 +++ 
 ### Urban Analytics
@@ -22,13 +21,16 @@
 Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally trackable or storable actions, choices, and preferences that people generate as they go about their daily lives.’ As opposed to traditional data (e.g., surveys or census), which are collected with a specific intention and follow a structured format with valid and reliable measurements (Hilbert, 2016)
 
 +++
-### Urban data characteristics
+### Urban data characteristics (1)
 
-- Volume -large Volumes of data (Terra, Petabytes) spanning large areas
-- Velocity -produced in near-real time
-- Variety -diverse in data sources, quality, structuredness, referenced spatially and temporally
-- Exhaustive -usually n=all, or at least claims to be
-- Resolution -fine grained, temporally, spatially and along other dimensions
-- Relational -usually merged with other datasets, likely through geographic identifiers
-- Flexible -accommodate new data streams, sensors etc.
-- Scalable -expanded rapidly
+- Volume -*large Volumes of data (Terra, Petabytes) spanning large areas*
+- Velocity -*produced in near-real time*
+- Variety -*diverse in data sources, quality, structuredness, referenced spatially and temporally*
+- Exhaustive -*usually n=all, or at least claims to be*
+- Resolution -*fine grained, temporally, spatially and along other dimensions*
+
++++
+### Urban data characteristics (2)
+- Relational -*usually merged with other datasets, likely through geographic identifiers*
+- Flexible -*accommodate new data streams, sensors etc.*
+- Scalable -*expanded rapidly*
