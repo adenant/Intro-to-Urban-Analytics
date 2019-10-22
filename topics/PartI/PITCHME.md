@@ -41,3 +41,8 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 - Relational -*usually merged with other datasets, likely through geographic identifiers*
 - Flexible -*accommodate new data streams, sensors etc.*
 - Scalable -*expanded rapidly*
+
++++
+### Urban Data in Context
+![Ade](assets/img/Picture1_Times_Square.png)
+What data or technologies might exist in this picture?
