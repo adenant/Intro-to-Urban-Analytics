@@ -44,5 +44,5 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 
 +++
 ### Urban Data in Context
-![Ade](assets/img/Picture1_Times_Square.png)
+![Times Square NYC](assets/img/Small_Picture1_Times_Square.png)
 What data or technologies might exist in this picture?
