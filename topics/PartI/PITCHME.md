@@ -5,8 +5,15 @@
 The multi-disciplinary area of research concerned with using new and emerging forms of data, alongside computational, visualisation and statistical techniques, to study cities and their systems, tell stories and understand their issues (Alex Singleton)
 
 +++ 
-### Urban Analytics
-- It is imperative to be critical of these techniques & procedures: 
+### Urban Analytics: Challenges
+- The use of data and statistics in the study of cities is nothing new; but what is new is the *quantity* and *variety* of data available about cities: Unprecendented challenges in data analysis
+- Importnat questions: What can, or should, one do with all of this data?
+    - The data may be wasted in no one can do and generate something out of it!
+    - Analysts or policymakers may got overwhelmed with the seer amount of data and information! 
+
++++ 
+### Urban Analytics: Our attitude toward these new and emerging data?
+- Bbe critical of these techniques & procedures: 
     - *“The problem with data is that it says a lot, but it also says nothing. ‘Big data’ is terrific, but it’s usually thin. To understand why something is happening, we have to engage in both forensics and guess work."* (Sendhil Mullainathan)
 
 +++ 
