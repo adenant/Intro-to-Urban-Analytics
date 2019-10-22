@@ -67,6 +67,34 @@ What data or technologies might exist in this picture?
 ![Stationary Sensor Networks](assets/img/Custom_chicagoarrayofthings.jpg)
 ![Advanced Metering Infrastructure](assets/img/induction_loop.gif)
 
++++
+### Type of data: Airborne Sensors (Drones/Satellites)
+![drone_roof](assets/img/drone_roof.jpg)
+
++++
+### Type of data: Transactions
+![Bukabike](assets/img/Bukabike.jpg)
+
++++
+### Type of data: Administrative data
+![nola_displacement](assets/img/nola_displacement.gif)
+
++++
+### Type of data: (in)Volunteered information
+![volunteered_information](assets/img/volunteered_information.svg)
+
++++
+### Type of data: Unstructured Data
+- Text
+- Images
+- Tweets
+- Blogs
+- Complaints
+- Audio
+
++++
+### Type of data: Unstructured Data
+![Twits](assets/img/tweets.gif)
 
 +++
 ### Urban Open Data
