@@ -1,4 +1,4 @@
-## Urban Analytics, Big Data, dan Smart Cities
+## Urban Analytics, Big Data, and Smart Cities
 
 +++
 ### Urban Analytics: Definition
