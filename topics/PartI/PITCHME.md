@@ -44,6 +44,31 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 
 +++
 ### Urban Data in Context
-![Times Square NYC](assets/img/Small_Picture1_Times_Square.png)
+![Times Square NYC](assets/img/Custom_Picture1_Times_Square .png)
 
 What data or technologies might exist in this picture?
+
+
++++
+### Urban Data in Context
+- GPS
+- Cell Phones
+- Cellular Networks
+- Satellite Data
+- Mobile Apps
+- Wireless Internet
+- Consumer Data Harvesting
+- Big Data Analytics
+- CCTV
+…
+
++++
+### Urban Open Data
+- Open licensing of data by cities enables use of municipal data without financial cost
+- Emergence of central repositories that consolidate data 
+    - Facilitate discovery and download of assets
+    - Not all cities are able to offer such resources 
+- The arguments for making data open have both an *ethical* and a *pragmatic* dimension 
+
++++
+### NYC Open Data Portal
