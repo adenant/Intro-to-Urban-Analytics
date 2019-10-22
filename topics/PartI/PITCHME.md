@@ -18,11 +18,11 @@
     - *How, where and why can/should we act?*
 
 +++
-## Definition of Big Data
+### Definition of Big Data
 Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally trackable or storable actions, choices, and preferences that people generate as they go about their daily lives.’ As opposed to traditional data (e.g., surveys or census), which are collected with a specific intention and follow a structured format with valid and reliable measurements (Hilbert, 2016)
 
 ---
-## Urban data characteristics
+### Urban data characteristics
 
 - Volume -large Volumes of data (Terra, Petabytes) spanning large areas
 - Velocity -produced in near-real time
