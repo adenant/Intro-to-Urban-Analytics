@@ -73,3 +73,26 @@ What data or technologies might exist in this picture?
 +++
 ### NYC Open Data Portal
 ![NYC Open Data](assets/img/Custom_Picture2_NYC_Socrata.png)
+
++++
+### Eight Critiques of Data Driven Urbanism by Rob Kitchin
+- City as a knowable, rational, steerable machine
+- Objective, neutral, non- ideological approach
+- Technocratic governance and solutionism
+- Neoliberal political economy
+- Ahistorical, aspatial, homogenizing and bounded
+- Reinforce power geometries & inequalities
+- Profound social, political, ethical effects
+- Buggy, brittle, hackable
+
++++
+### Conclusions
+- Urban data enable Urban Analytics
+    - New forms of data 
+    - Computational approaches 
+    - Gain insight into urban processes
+    - Ask new and often complex questions
+- Data in itself does not offer insight
+    -Methods are required to both generate and communicate findings. 
+- Urban analytics provides the tools, technologies, and processes for the pursuit of this new data-intensive science of cities. 
+
