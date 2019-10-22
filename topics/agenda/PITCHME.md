@@ -1,6 +1,6 @@
 ## Agenda
 
-- Bagian I:Urban Analytics 
-- Bagian II: Pengenalan Software R untuk Urban Analytics
-- Bagian III: Pengenalan mdetode Machine Learning untuk UA
-- Bagian IV: Bias-bias dalam Alghoritma Komputasi
+- Part I: Introducation to Urban Analytics (UA) 
+- Part II: Introducation to R for UA
+- Part III: Introducation to Machine Learning for UA
+- Part IV: Biases in Data and Computational Algorithms for UA
