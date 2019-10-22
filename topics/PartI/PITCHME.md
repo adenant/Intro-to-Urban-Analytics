@@ -64,8 +64,8 @@ What data or technologies might exist in this picture?
 
 +++
 ### Type of data: Stationary Sensor Networks
-![Stationary Sensor Networks](assets/img/chicagoarrayofthings.jpg)
-![Advanced Metering Infrastructure](assets/img/induction_loop.gif)
+![Stationary Sensor Networks](assets/img/Custom_chicagoarrayofthings.jpg)
+![Advanced Metering Infrastructure](assets/img/Custom_induction_loop.gif)
 
 
 +++
