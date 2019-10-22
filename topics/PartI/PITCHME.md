@@ -1,5 +1,9 @@
-## Urban Analytics
+## Urban Analytics, Big Data, dan Smart Cities
 
 +++
-Sebuah bidang kajian multi-disiplin dengan menggunakan berbagai bentuk data yang baru dan terkini untuk mempelajari kota beserta sistemnya, menceritakan "cerita"-nya, dan memahami berbagai persoalnnya dengan memanfaatkan teknik-teknik komputasi, visualisasi, dan statisik
+## Urban Analytics
+The multi-disciplinary area of research concerned with using new and emerging forms of data, alongside computational, visualisation and statistical techniques, to study cities and their systems, tell stories and understand their issues.
 
+It is imperative to be critical of these techniques & procedures
+
+“The problem with data is that it says a lot, but it also says nothing. ‘Big data’ is terrific, but it’s usually thin. To understand why something is happening, we have to engage in both forensics and guess work." --Sendhil Mullainathan
