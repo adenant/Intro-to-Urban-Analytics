@@ -100,6 +100,7 @@ What data or technologies might exist in this picture?
 ### Type of data: Unstructured Data
 ![Twits](assets/img/gitpitch4_tweets.gif)
 
+
 +++
 ### Urban Open Data
 - Open licensing of data by cities enables use of municipal data without financial cost
