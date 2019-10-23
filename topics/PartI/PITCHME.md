@@ -48,7 +48,7 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 
 +++
 ### Urban Data in Context
-![Times Square NYC](assets/img/gitpith_Custom_Picture1_Times_Square.png.png)
+![Times Square NYC](assets/img/gitpith_Custom_Picture1_Times_Square.png)
 
 What data or technologies might exist in this picture?
 
@@ -69,7 +69,7 @@ What data or technologies might exist in this picture?
 +++
 ### Type of data: Stationary Sensor Networks
 ![Stationary Sensor Networks](assets/img/gitpitchhlf_chicagoarrayofthings.jpg)
-![Advanced Metering Infrastructure](assets/img/induction_loop.gif)
+![Advanced Metering Infrastructure](assets/img/gitpitchhlf_Custom_induction_loop.gif)
 
 +++
 ### Type of data: Airborne Sensors (Drones/Satellites)
@@ -81,11 +81,11 @@ What data or technologies might exist in this picture?
 
 +++
 ### Type of data: Administrative data
-![nola_displacement](assets/img/nola_displacement.gif)
+![nola_displacement](assets/img/gitpitch4_nola_displacement.gif)
 
 +++
 ### Type of data: (in)Volunteered information
-![volunteered_information](assets/img/tweets.gif)
+![volunteered_information](assets/img/gitpitch_volunteered_information.png)
 
 +++
 ### Type of data: Unstructured Data
