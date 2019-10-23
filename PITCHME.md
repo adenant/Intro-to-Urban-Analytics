@@ -1,6 +1,3 @@
 ---?include=topics/cover/PITCHME.md
 ---?include=topics/agenda/PITCHME.md
 ---?include=topics/PartI/PITCHME.md
----?include=topics/intro-to-R-and-Rstudio/PITCHME.md
----?include=topics/intro_to_R_next_week/PITCHME.md
----?include=topics/intro_to_twitter_analysis/PITCHME.md
