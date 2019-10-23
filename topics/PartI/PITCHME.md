@@ -28,6 +28,10 @@ The multi-disciplinary area of research concerned with using new and emerging fo
 Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally trackable or storable actions, choices, and preferences that people generate as they go about their daily lives.’ As opposed to traditional data (e.g., surveys or census), which are collected with a specific intention and follow a structured format with valid and reliable measurements (Hilbert, 2016)
 
 +++
+### Big "V" of Big Data
+![Bigdata](assets/img/gitpitch_4Vs_of_bigdata.jpg)
+
++++
 ### Urban data characteristics (1)
 
 - Volume -*large Volumes of data (Terra, Petabytes) spanning large areas*
@@ -44,7 +48,7 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 
 +++
 ### Urban Data in Context
-![Times Square NYC](assets/img/Custom_Picture1_Times_Square.png)
+![Times Square NYC](assets/img/gitpith_Custom_Picture1_Times_Square.png.png)
 
 What data or technologies might exist in this picture?
 
@@ -64,16 +68,16 @@ What data or technologies might exist in this picture?
 
 +++
 ### Type of data: Stationary Sensor Networks
-![Stationary Sensor Networks](assets/img/Custom_chicagoarrayofthings.jpg)
+![Stationary Sensor Networks](assets/img/gitpitchhlf_chicagoarrayofthings.jpg)
 ![Advanced Metering Infrastructure](assets/img/induction_loop.gif)
 
 +++
 ### Type of data: Airborne Sensors (Drones/Satellites)
-![drone_roof](assets/img/drone_roof.jpg)
+![drone_roof](assets/img/gitpith_drone_roof.jpg)
 
 +++
 ### Type of data: Transactions
-![Bukabike](assets/img/Bukabike.jpg)
+![Bukabike](assets/img/gitpith_Bukabike.jpg)
 
 +++
 ### Type of data: Administrative data
@@ -81,7 +85,7 @@ What data or technologies might exist in this picture?
 
 +++
 ### Type of data: (in)Volunteered information
-![volunteered_information](assets/img/volunteered_information.svg)
+![volunteered_information](assets/img/tweets.gif)
 
 +++
 ### Type of data: Unstructured Data
