@@ -29,7 +29,7 @@ Big data is often seen as ‘data exhaust,’ in other words, ‘the digitally t
 
 +++
 ### Big "V" of Big Data
-![Bigdata](assets/img/gitpitch3_4Vs_of_bigdata.jpg)
+![Bigdata](assets/img/gitpitch4_4Vs_of_bigdata.jpg)
 
 +++
 ### Urban data characteristics (1)
