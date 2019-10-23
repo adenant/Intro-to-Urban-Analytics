@@ -98,7 +98,7 @@ What data or technologies might exist in this picture?
 
 +++
 ### Type of data: Unstructured Data
-![Twits](assets/img/tweets.gif)
+![Twits](assets/img/gitpitch4_tweets.gif)
 
 +++
 ### Urban Open Data
@@ -110,7 +110,7 @@ What data or technologies might exist in this picture?
 
 +++
 ### NYC Open Data Portal
-![NYC Open Data](assets/img/Custom_Picture2_NYC_Socrata.png)
+![NYC Open Data](assets/img/gitpitch4_Picture2_NYC_Socrata.png)
 
 +++
 ### Eight Critiques of Data Driven Urbanism by Rob Kitchin
