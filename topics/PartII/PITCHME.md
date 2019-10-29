@@ -3,7 +3,7 @@
 +++
 ### Preliminaries
 - To get started with this course, you will need R and I strongly recommend Rstudio for the GUI
-- You can get the latest version of R from [https://www.r-project.org/](https://www.r-project.org/) and Rstudio from https://rstudio.com/](https://rstudio.com/)
+- You can get the latest version of R from [https://www.r-project.org/](https://www.r-project.org/) and Rstudio from [https://rstudio.com/](https://rstudio.com/)
 +++
 ### Why R?
 - Great for reproducibility
