@@ -1,3 +1,4 @@
 ---?include=topics/cover/PITCHME.md
 ---?include=topics/agenda/PITCHME.md
 ---?include=topics/PartI/PITCHME.md
+---?include=topics/PartII/PITCHME.md
